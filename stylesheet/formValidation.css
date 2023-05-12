@@ -16,7 +16,6 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        border-radius: 5px;
         background: url(../images/loginback.jpg);
         /* filter: blur(4px); */
       }
